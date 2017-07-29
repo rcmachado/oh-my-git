@@ -1,3 +1,13 @@
+# oh-my-git fork
+
+This fork merges the following PRs from the upstream:
+
+- [replace '$' signs in branch name by pile_of_poo (#114)](https://github.com/arialdomartini/oh-my-git/pull/114)
+- [Fix fatal error if not in git dir (#109)](https://github.com/arialdomartini/oh-my-git/pull/109)
+
+Original README bellow.
+
+# Original README
 
 ![alt tag](https://raw.githubusercontent.com/arialdomartini/oh-my-git-gh-pages/master/images/samples/01-ordinary-prompt.jpg)
 ![alt tag](https://raw.githubusercontent.com/arialdomartini/oh-my-git-gh-pages/master/images/samples/02-bang.jpg)
